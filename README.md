@@ -4,7 +4,7 @@
 To analyze the return and risk characteristics of selected Indian stocks and identify stocks with better risk-adjusted performance.
 
 ## Dataset
-- Source: Yahoo Finance
+- Source: Investing.com
 - Stocks analyzed: TCS, Reliance, HDFC Bank, Infosys, ITC
 - Time period: 2019–2024
 
